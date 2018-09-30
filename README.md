@@ -1,2 +1,2 @@
-# ResNet_for_Image_Classification
-ResNet_for_Image_Classification
+#Image Classification using ResNet - American Sign Language Dataset
+Image Classification using ResNet - American Sign Language Dataset
